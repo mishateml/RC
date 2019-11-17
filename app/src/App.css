@@ -1,0 +1,16 @@
+.App {
+  margin: 36px auto;
+  border: 2px solid gray;
+  display: inline-block;
+  padding: 18px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contant{
+  border: gray 1px solid;
+}
+
+
